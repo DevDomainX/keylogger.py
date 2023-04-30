@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Author: Hans Saldias
 import keyboard as key
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
